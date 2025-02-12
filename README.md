@@ -49,14 +49,9 @@
 
 **IMPORTANT NOTES:**
 
-1. Do NOT refresh/reload the application once there through the link as that will break the application's functionality.
-2. When accessing certain pages on the application such as "view active items", "review items", other similar pages, or when viewing a specific item, items past their bid or purchase end date will automatically become completed or failed depending on the conditions described on the "FINALIZED" version of the use-cases before any of the items and their contents show up.
-3. Despite what is said on the README regarding each use-case, it is important to take into consideration what is described on the "FINALIZED" version of the use-cases as to why the condition behaves in certain ways when certain actions are taken by the user.
-4. You will be treated as a Customer until you log in as either a seller or buyer. If you log out of your account at any point, you will be treated as a Customer again until you log back in as either a seller or buyer.
-5. Do NOT use the username "Admin1" when creating an account as that username is already taken
-6. To log in as the auction house's "Admin" side, use the username "Admin1" and password "Admin1", both without the quotes and while ensuring the correct capitalization.
-7. On the "Reports" page on the Admin, the "Total Funds:" section represents the required generated auction report, and the "auction forensics" section represents the required generated forensics report.
-8. While we don't expect there to be any, to avoid any unforeseen issues, we recommend running our application inside of an incognito window of your browser.
+1. When accessing certain pages on the application such as "view active items", "review items", other similar pages, or when viewing a specific item, items past their bid or purchase end date will automatically become completed or failed depending on the conditions described on the "FINALIZED" version of the use-cases before any of the items and their contents show up.
+2. You will be treated as a Customer until you log in as either a seller or buyer. If you log out of your account at any point, you will be treated as a Customer again until you log back in as either a seller or buyer.
+3. On the "Reports" page on the Admin, the "Total Funds:" section represents the required generated auction report, and the "auction forensics" section represents the required generated forensics report.
 
 ### Customer Use-Cases
 
